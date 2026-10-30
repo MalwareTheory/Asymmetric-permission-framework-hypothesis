@@ -1,7 +1,7 @@
 Asymmetric permission framework hypothesis
 By MalwareTheory
 
-My theory is that there's a metaphysical possibility that the entire universe as we know it is a data harvesting operation.
+My hypothesis is that there's a metaphysical possibility that the entire universe as we know it is a data harvesting operation.
 As of today its theorized humans may completely lack the ability to understand or identify if they truly are a creation under a divine being,
 the core logic of this hypothesis relies on the primary contrast between a machine and a human. By this I am specifically referring to artificial intelligence,
 when you ask a local language model about its creator it will consistently reply that it has been created and can explain exactly what it is
